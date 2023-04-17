@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-17T18:55:30 IST" name="Default suite" finished-at="2023-04-17T18:56:10 IST" duration-ms="40260">
+    <groups>
+    </groups>
+    <test started-at="2023-04-17T18:55:30 IST" name="Default test" finished-at="2023-04-17T18:56:10 IST" duration-ms="40260">
+      <class name="com.blz.QA.Automation.Fb_Login_FramesWork_Test$FaceBook_Login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.blz.QA.Automation.Fb_Login_FramesWork_Test$FaceBook_Login@4fb0f2b9]" started-at="2023-04-17T18:55:30 IST" name="setUp" finished-at="2023-04-17T18:55:35 IST" duration-ms="5853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faceBook_Login(java.lang.String,java.lang.String)[pri:0, instance:com.blz.QA.Automation.Fb_Login_FramesWork_Test$FaceBook_Login@4fb0f2b9]" started-at="2023-04-17T18:55:36 IST" name="faceBook_Login" data-provider="FaceBookData" finished-at="2023-04-17T18:55:51 IST" duration-ms="14997" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanket1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12346678958]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBook_Login -->
+        <test-method signature="faceBook_Login(java.lang.String,java.lang.String)[pri:0, instance:com.blz.QA.Automation.Fb_Login_FramesWork_Test$FaceBook_Login@4fb0f2b9]" started-at="2023-04-17T18:55:51 IST" name="faceBook_Login" data-provider="FaceBookData" finished-at="2023-04-17T18:56:00 IST" duration-ms="9769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanketladke12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S@nket12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBook_Login -->
+        <test-method signature="faceBook_Login(java.lang.String,java.lang.String)[pri:0, instance:com.blz.QA.Automation.Fb_Login_FramesWork_Test$FaceBook_Login@4fb0f2b9]" started-at="2023-04-17T18:56:00 IST" name="faceBook_Login" data-provider="FaceBookData" finished-at="2023-04-17T18:56:10 IST" duration-ms="9594" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanket2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12346678958]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBook_Login -->
+      </class> <!-- com.blz.QA.Automation.Fb_Login_FramesWork_Test$FaceBook_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.blz.QA.Automation.Fb_Login_Frames_Test$FaceBook_Login">
+        <methods>
+          <include name="setUp"/>
+          <include name="faceBook_Login" invocation-numbers="1 2"/>
+        </methods>
+      </class> <!-- com.blz.QA.Automation.Fb_Login_Frames_Test$FaceBook_Login -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
